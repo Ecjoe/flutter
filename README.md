@@ -1,2 +1,2 @@
 # flutter
-fun learning through flutter
+fun learning through Flutter
